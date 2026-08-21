@@ -60,7 +60,7 @@ You win! 🎉
 ```text
 rock-paper-scissors/
 │
-├── main.py
+├── game_s.html
 └── README.md
 ```
 
