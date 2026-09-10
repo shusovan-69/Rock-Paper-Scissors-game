@@ -7,7 +7,7 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly selects i
 
 The game follows the classic rules:
 
-* 🪨 **Rock** beats ✂️ Scissors
+🪨 **Rock** beats ✂️ Scissors
 * 📄 **Paper** beats 🪨 Rock
 * ✂️ **Scissors** beats 📄 Paper
 * Same choice = **Draw**
