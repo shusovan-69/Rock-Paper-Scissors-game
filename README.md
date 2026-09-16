@@ -3,7 +3,7 @@
 A simple **Rock, Paper, Scissors** game built with **Python**.
 The player chooses Rock, Paper, or Scissors, and the computer randomly selects its choice.
 
-## 🎮 How It Works
+# 🎮 How It Works
 
 The game follows the classic rules:
 
