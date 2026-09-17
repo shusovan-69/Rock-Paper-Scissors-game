@@ -1,4 +1,4 @@
-# 🪨 Rock, Paper, Scissors ✂️
+## 🪨 Rock, Paper, Scissors ✂️
 
 A simple **Rock, Paper, Scissors** game built with **Python**.
 The player chooses Rock, Paper, or Scissors, and the computer randomly selects its choice.
