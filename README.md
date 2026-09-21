@@ -12,7 +12,7 @@ The game follows the classic rules:
 * ✂️ **Scissors** beats 📄 Paper
 * Same choice = **Draw**
 
-# ✨ Features
+#✨ Features
 
 * Simple and beginner-friendly Python project
 * Random computer choices
