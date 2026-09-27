@@ -9,7 +9,7 @@ The game follows the classic rules:
 
 🪨 **Rock* beats ✂️ Scissors
 📄 *Paper** beats 🪨 Rock
-* ✂️ **Scissors** beats 📄 Paper
+✂️ **Scissors** beats 📄 Paper
 * Same choice = **Draw**
 
 #✨ Features
