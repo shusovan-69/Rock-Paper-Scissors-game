@@ -21,7 +21,7 @@ The game follows the classic rules:
 * Clear result display
 * Lightweight and easy to run
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 * **Python 3**
 * `random` module
